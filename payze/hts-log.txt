@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Jul 2023 01:52:09 at https://kit.baliniz.com/payze/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kit.baliniz.com/payze/ -O1 "C:\Users\K\Desktop\dev\payze\payze" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:53:05	Error: 	"Method Not Allowed" (405) at link https://kit.baliniz.com/payze/xmlrpc.php (from https://kit.baliniz.com/payze/)
+01:55:53	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=623
+01:55:53	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=623 to https://kit.baliniz.com/payze/about/
+01:55:53	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=837
+01:55:53	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=837 to https://kit.baliniz.com/payze/services/
+01:55:53	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=852
+01:55:53	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=852 to https://kit.baliniz.com/payze/team/
+01:55:53	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=873
+01:55:53	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=873 to https://kit.baliniz.com/payze/faq/
+01:55:53	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=878
+01:55:53	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=878 to https://kit.baliniz.com/payze/pricing/
+01:55:53	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=889
+01:55:53	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=889 to https://kit.baliniz.com/payze/blog/
+01:56:15	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=492
+01:56:15	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=492 to https://kit.baliniz.com/payze/2022/06/09/newest-saas-payment-platform-can-raise-15-million-annually/
+01:56:15	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=1110
+01:56:15	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=1110 to https://kit.baliniz.com/payze/404-page/
+01:56:15	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=948
+01:56:15	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=948 to https://kit.baliniz.com/payze/contact/
+01:56:16	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=501
+01:56:16	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=501 to https://kit.baliniz.com/payze/2022/06/09/the-impact-of-online-payments-will-make-all-banks-use-atms/
+01:56:16	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=502
+01:56:16	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=502 to https://kit.baliniz.com/payze/2022/06/09/is-now-a-good-time-to-worry-more-about-financial-inflation/
+01:56:16	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=503
+01:56:16	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=503 to https://kit.baliniz.com/payze/2022/06/09/new-saas-online-payment-platform-raises-15-million-per-year/
+01:56:16	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=505
+01:56:16	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=505 to https://kit.baliniz.com/payze/2022/06/09/federal-bank-will-cooperate-with-all-online-payment-platforms/
+01:56:16	Warning: 	Moved Permanently for https://kit.baliniz.com/payze/?p=504
+01:56:16	Warning: 	File has moved from https://kit.baliniz.com/payze/?p=504 to https://kit.baliniz.com/payze/2022/06/09/the-place-to-share-your-financial-success-is-by-joining-payze/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 7 seconds : 263 links scanned, 247 files written (22473265 bytes overall) [11580410 bytes received at 46884 bytes/sec], 16482915 bytes transferred using HTTP compression in 192 files, ratio 32%, 32.8 requests per connection
+(1 errors, 28 warnings, 0 messages)
